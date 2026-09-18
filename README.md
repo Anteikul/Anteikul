@@ -46,28 +46,6 @@ I like learning by building real things, testing them, breaking them, fixing the
 
 ---
 
-## 📌 Featured projects
-
-### 🔹 CMS
-Simple CMS project focused on articles, users, roles and basic content management.
-
-### 🔹 Teams-Sharepoint-Download
-PowerShell automation for backing up Microsoft Teams and SharePoint document libraries.
-
-### 🔹 cas
-Educational web project built mainly with HTML.
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Anteikul&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anteikul&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 What I enjoy
 
 - Building small but useful tools
